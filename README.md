@@ -37,7 +37,7 @@ You can use this code provided that you cite the following papers in your public
 
 In order to run the code, in a terminal, simply type the following:
 
-gfortran/ifort -mcmodel=medium qpws.f90 main.f90
+gfortran/ifort -mcmodel=medium qpws.f90 main.f90  
 ./a.out
 
 ---
