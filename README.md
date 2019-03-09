@@ -7,8 +7,8 @@ in canonical single field inflationary models.
 
 You can use this code provided that you cite the following papers in your publications.
 
-	1. [Numerical evaluation of the three-point scalar-tensor cross-correlations and the tensor bi-spectrum](https://doi.org/10.1088/1475-7516/2013/12/037)
-	2. [Examining the consistency relations describing the three-point functions involving tensors](https://doi.org/10.1088/1475-7516/2014/10/021)
+1. [Numerical evaluation of the three-point scalar-tensor cross-correlations and the tensor bi-spectrum](https://doi.org/10.1088/1475-7516/2013/12/037)
+2. [Examining the consistency relations describing the three-point functions involving tensors](https://doi.org/10.1088/1475-7516/2014/10/021)
 
 ---
 ## About this code
